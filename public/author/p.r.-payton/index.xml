@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P.R. Payton | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/p.r.-payton/</link>
+      <atom:link href="/author/p.r.-payton/index.xml" rel="self" type="application/rss+xml" />
+    <description>P.R. Payton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>P.R. Payton</title>
+      <link>/author/p.r.-payton/</link>
+    </image>
+    
+    <item>
+      <title>Utilizing intraspecific variation in phenotypic plasticity to bolster agricultural and forest productivity under climate change</title>
+      <link>/publication/aspinwall-20151752/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/aspinwall-20151752/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T.N. Mikkelsen | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/t.n.-mikkelsen/</link>
+      <atom:link href="/author/t.n.-mikkelsen/index.xml" rel="self" type="application/rss+xml" />
+    <description>T.N. Mikkelsen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>T.N. Mikkelsen</title>
+      <link>/author/t.n.-mikkelsen/</link>
+    </image>
+    
+    <item>
+      <title>Optimal stomatal behaviour around the world</title>
+      <link>/publication/lin-2015459/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lin-2015459/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

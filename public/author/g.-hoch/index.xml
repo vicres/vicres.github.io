@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Hoch | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/g.-hoch/</link>
+      <atom:link href="/author/g.-hoch/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Hoch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>G. Hoch</title>
+      <link>/author/g.-hoch/</link>
+    </image>
+    
+    <item>
+      <title>Endogenous circadian rhythms in pigment composition induce changes in photochemical efficiency in plant canopies</title>
+      <link>/publication/garcia-plazaola-20171153/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-plazaola-20171153/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Night and day – Circadian regulation of night-time dark respiration and light-enhanced dark respiration in plant leaves and canopies</title>
+      <link>/publication/gessler-201714/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gessler-201714/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

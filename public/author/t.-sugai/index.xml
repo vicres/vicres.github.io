@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Sugai | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/t.-sugai/</link>
+      <atom:link href="/author/t.-sugai/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Sugai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>T. Sugai</title>
+      <link>/author/t.-sugai/</link>
+    </image>
+    
+    <item>
+      <title>Physiological drought responses improve predictions of live fuel moisture dynamics in a Mediterranean forest</title>
+      <link>/publication/nolan-2018417/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-2018417/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

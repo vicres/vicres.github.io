@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O.F. Price | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/o.f.-price/</link>
+      <atom:link href="/author/o.f.-price/index.xml" rel="self" type="application/rss+xml" />
+    <description>O.F. Price</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>O.F. Price</title>
+      <link>/author/o.f.-price/</link>
+    </image>
+    
+    <item>
+      <title>Changing Weather Extremes Call for Early Warning of Potential for Catastrophic Fire</title>
+      <link>/publication/boer-20171196/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/boer-20171196/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future changes in climatic water balance determine potential for transformational shifts in Australian fire regimes</title>
+      <link>/publication/boer-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/boer-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

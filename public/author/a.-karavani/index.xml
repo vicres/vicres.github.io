@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Karavani | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/a.-karavani/</link>
+      <atom:link href="/author/a.-karavani/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Karavani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>A. Karavani</title>
+      <link>/author/a.-karavani/</link>
+    </image>
+    
+    <item>
+      <title>Fire-induced deforestation in drought-prone Mediterranean forests: drivers and unknowns from leaves to communities</title>
+      <link>/publication/karavani-2018141/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/karavani-2018141/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

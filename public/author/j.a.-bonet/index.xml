@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.A. Bonet | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/j.a.-bonet/</link>
+      <atom:link href="/author/j.a.-bonet/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.A. Bonet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>J.A. Bonet</title>
+      <link>/author/j.a.-bonet/</link>
+    </image>
+    
+    <item>
+      <title>Crown bulk density and fuel moisture dynamics in Pinus pinaster stands are neither modified by thinning nor captured by the Forest Fire Weather Index</title>
+      <link>/publication/soler-martin-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/soler-martin-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

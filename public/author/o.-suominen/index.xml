@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Suominen | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/o.-suominen/</link>
+      <atom:link href="/author/o.-suominen/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Suominen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>O. Suominen</title>
+      <link>/author/o.-suominen/</link>
+    </image>
+    
+    <item>
+      <title>Gastropod diversity in aspen stands in coastal northern Sweden</title>
+      <link>/publication/suominen-2003403/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/suominen-2003403/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

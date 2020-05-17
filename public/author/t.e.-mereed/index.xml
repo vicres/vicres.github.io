@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T.E. Mereed | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/t.e.-mereed/</link>
+      <atom:link href="/author/t.e.-mereed/index.xml" rel="self" type="application/rss+xml" />
+    <description>T.E. Mereed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>T.E. Mereed</title>
+      <link>/author/t.e.-mereed/</link>
+    </image>
+    
+    <item>
+      <title>Intraspecific variation in juvenile tree growth under elevated CO&lt;inf&gt;2&lt;/inf&gt; alone and with O&lt;inf&gt;3&lt;/inf&gt;: A meta-analysis</title>
+      <link>/publication/de-dios-2016682/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-2016682/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

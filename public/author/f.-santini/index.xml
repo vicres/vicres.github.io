@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Santini | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/f.-santini/</link>
+      <atom:link href="/author/f.-santini/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Santini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>F. Santini</title>
+      <link>/author/f.-santini/</link>
+    </image>
+    
+    <item>
+      <title>Using unmanned aerial vehicle-based multispectral, RGB and thermal imagery for phenotyping of forest genetic trials: A case study in Pinus halepensis</title>
+      <link>/publication/santini-2019262/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santini-2019262/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.G. Tjoelker | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/m.g.-tjoelker/</link>
+      <atom:link href="/author/m.g.-tjoelker/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.G. Tjoelker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>M.G. Tjoelker</title>
+      <link>/author/m.g.-tjoelker/</link>
+    </image>
+    
+    <item>
+      <title>Photosynthesis and carbon allocation are both important predictors of genotype productivity responses to elevated CO &lt;inf&gt;2&lt;/inf&gt; in Eucalyptus camaldulensis</title>
+      <link>/publication/aspinwall-20181286/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/aspinwall-20181286/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Night and day – Circadian regulation of night-time dark respiration and light-enhanced dark respiration in plant leaves and canopies</title>
+      <link>/publication/gessler-201714/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gessler-201714/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian rhythms have significant effects on leaf-to-canopy scale gas exchange under field conditions</title>
+      <link>/publication/rescode-dios-201643/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-201643/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing intraspecific variation in phenotypic plasticity to bolster agricultural and forest productivity under climate change</title>
+      <link>/publication/aspinwall-20151752/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/aspinwall-20151752/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

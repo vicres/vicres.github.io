@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.J. Fardusi | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/m.j.-fardusi/</link>
+      <atom:link href="/author/m.j.-fardusi/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.J. Fardusi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>M.J. Fardusi</title>
+      <link>/author/m.j.-fardusi/</link>
+    </image>
+    
+    <item>
+      <title>Intra-specific association between carbon isotope composition and productivity in woody plants: A meta-analysis</title>
+      <link>/publication/fardusi-2016110/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/fardusi-2016110/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

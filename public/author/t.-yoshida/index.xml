@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Yoshida | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/t.-yoshida/</link>
+      <atom:link href="/author/t.-yoshida/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Yoshida</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>T. Yoshida</title>
+      <link>/author/t.-yoshida/</link>
+    </image>
+    
+    <item>
+      <title>Growth and survival of tall tree seedlings 6∼8 years after soil scarification in hokkaido</title>
+      <link>/publication/harada-2008397/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/harada-2008397/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of topsoil removal by soil-scarification on regeneration dynamics of mixed forests in Hokkaido, Northern Japan</title>
+      <link>/publication/resco-de-dios-2005138/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-de-dios-2005138/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

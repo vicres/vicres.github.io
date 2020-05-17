@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Colinas | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/c.-colinas/</link>
+      <atom:link href="/author/c.-colinas/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Colinas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>C. Colinas</title>
+      <link>/author/c.-colinas/</link>
+    </image>
+    
+    <item>
+      <title>Fire-induced deforestation in drought-prone Mediterranean forests: drivers and unknowns from leaves to communities</title>
+      <link>/publication/karavani-2018141/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/karavani-2018141/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate change effects on mediterranean forests and preventive measures</title>
+      <link>/publication/resco-de-dios-200729/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-de-dios-200729/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X.-J. Min | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/x.-j.-min/</link>
+      <atom:link href="/author/x.-j.-min/index.xml" rel="self" type="application/rss+xml" />
+    <description>X.-J. Min</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>X.-J. Min</title>
+      <link>/author/x.-j.-min/</link>
+    </image>
+    
+    <item>
+      <title>Extreme drought affects the productivity, but not the composition, of a desert plant community in Central Asia differentially across microtopographies</title>
+      <link>/publication/zang-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zang-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Esteban | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/r.-esteban/</link>
+      <atom:link href="/author/r.-esteban/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Esteban</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>R. Esteban</title>
+      <link>/author/r.-esteban/</link>
+    </image>
+    
+    <item>
+      <title>Life after harvest: Circadian regulation in photosynthetic pigments of rocket leaves during supermarket storage affects the nutritional quality</title>
+      <link>/publication/de-larrinaga-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/de-larrinaga-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

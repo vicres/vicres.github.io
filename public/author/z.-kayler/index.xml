@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z. Kayler | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/z.-kayler/</link>
+      <atom:link href="/author/z.-kayler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Z. Kayler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>Z. Kayler</title>
+      <link>/author/z.-kayler/</link>
+    </image>
+    
+    <item>
+      <title>Circadian rhythms regulate the environmental responses of net CO&lt;inf&gt;2&lt;/inf&gt; exchange in bean and cotton canopies</title>
+      <link>/publication/rescode-dios-2017185/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2017185/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Night and day – Circadian regulation of night-time dark respiration and light-enhanced dark respiration in plant leaves and canopies</title>
+      <link>/publication/gessler-201714/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gessler-201714/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian rhythms have significant effects on leaf-to-canopy scale gas exchange under field conditions</title>
+      <link>/publication/rescode-dios-201643/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-201643/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

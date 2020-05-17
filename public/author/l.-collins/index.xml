@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Collins | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/l.-collins/</link>
+      <atom:link href="/author/l.-collins/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Collins</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>L. Collins</title>
+      <link>/author/l.-collins/</link>
+    </image>
+    
+    <item>
+      <title>Causes and consequences of eastern Australia&#39;s 2019–20 season of mega-fires</title>
+      <link>/publication/nolan-20201039/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-20201039/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of competition and herbivory over woody seedling growth in a temperate woodland trump the effects of elevated CO&lt;inf&gt;2&lt;/inf&gt;</title>
+      <link>/publication/collins-2018811/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/collins-2018811/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understorey productivity in temperate grassy woodland responds to soil water availability but not to elevated [CO&lt;inf&gt;2&lt;/inf&gt;]</title>
+      <link>/publication/collins-20182366/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/collins-20182366/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Pfautsch | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/s.-pfautsch/</link>
+      <atom:link href="/author/s.-pfautsch/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Pfautsch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>S. Pfautsch</title>
+      <link>/author/s.-pfautsch/</link>
+    </image>
+    
+    <item>
+      <title>Photosynthesis and carbon allocation are both important predictors of genotype productivity responses to elevated CO &lt;inf&gt;2&lt;/inf&gt; in Eucalyptus camaldulensis</title>
+      <link>/publication/aspinwall-20181286/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/aspinwall-20181286/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Woody clockworks: Circadian regulation of night-time water use in Eucalyptus globulus</title>
+      <link>/publication/rescode-dios-2013743/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2013743/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

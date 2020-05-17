@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T.A. Shestakova | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/t.a.-shestakova/</link>
+      <atom:link href="/author/t.a.-shestakova/index.xml" rel="self" type="application/rss+xml" />
+    <description>T.A. Shestakova</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>T.A. Shestakova</title>
+      <link>/author/t.a.-shestakova/</link>
+    </image>
+    
+    <item>
+      <title>DendroSync: An R package to unravel synchrony patterns in tree-ring networks</title>
+      <link>/publication/alday-201817/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/alday-201817/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forests synchronize their growth in contrasting Eurasian regions in response to climate warming</title>
+      <link>/publication/shestakova-2016662/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/shestakova-2016662/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

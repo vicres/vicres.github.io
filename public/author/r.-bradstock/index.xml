@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Bradstock | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/r.-bradstock/</link>
+      <atom:link href="/author/r.-bradstock/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Bradstock</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>R. Bradstock</title>
+      <link>/author/r.-bradstock/</link>
+    </image>
+    
+    <item>
+      <title>Erratum: Author Correction: Globe-LFMC, a global plant water status database for vegetation ecophysiology and wildfire applications (Scientific data (2019) 6 1 (155))</title>
+      <link>/publication/yebra-2019305/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yebra-2019305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globe-LFMC, a global plant water status database for vegetation ecophysiology and wildfire applications</title>
+      <link>/publication/yebra-2019155/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yebra-2019155/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

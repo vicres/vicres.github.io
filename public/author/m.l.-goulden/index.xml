@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.L. Goulden | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/m.l.-goulden/</link>
+      <atom:link href="/author/m.l.-goulden/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.L. Goulden</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>M.L. Goulden</title>
+      <link>/author/m.l.-goulden/</link>
+    </image>
+    
+    <item>
+      <title>Predicting dead fine fuel moisture at regional scales using vapour pressure deficit from MODIS and gridded weather data</title>
+      <link>/publication/nolan-2016100/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-2016100/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semi-mechanistic model for predicting the moisture content of fine litter</title>
+      <link>/publication/rescode-dios-201564/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-201564/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Woody clockworks: Circadian regulation of night-time water use in Eucalyptus globulus</title>
+      <link>/publication/rescode-dios-2013743/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2013743/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Endogenous circadian regulation of carbon dioxide exchange in terrestrial ecosystems</title>
+      <link>/publication/de-dios-20121956/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-20121956/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

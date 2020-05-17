@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.-T. Sebastià | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/m.-t.-sebastia/</link>
+      <atom:link href="/author/m.-t.-sebastia/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.-T. Sebastià</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>M.-T. Sebastià</title>
+      <link>/author/m.-t.-sebastia/</link>
+    </image>
+    
+    <item>
+      <title>Stable isotope views on ecosystem function: challenging or challenged?</title>
+      <link>/publication/resco-2010287/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-2010287/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

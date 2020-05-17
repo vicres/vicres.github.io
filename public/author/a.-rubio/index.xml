@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Rubio | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/a.-rubio/</link>
+      <atom:link href="/author/a.-rubio/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Rubio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>A. Rubio</title>
+      <link>/author/a.-rubio/</link>
+    </image>
+    
+    <item>
+      <title>Postfire nitrogen balance of Mediterranean shrublands: Direct combustion losses versus gaseous and leaching losses from the postfire soil mineral nitrogen flush</title>
+      <link>/publication/dannenmann-20184505/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dannenmann-20184505/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fire increases the risk of higher soil N&lt;inf&gt;2&lt;/inf&gt;O emissions from Mediterranean Macchia ecosystems</title>
+      <link>/publication/karhu-201544/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/karhu-201544/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

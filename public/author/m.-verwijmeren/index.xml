@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Verwijmeren | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/m.-verwijmeren/</link>
+      <atom:link href="/author/m.-verwijmeren/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Verwijmeren</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>M. Verwijmeren</title>
+      <link>/author/m.-verwijmeren/</link>
+    </image>
+    
+    <item>
+      <title>A new family of standardized and symmetric indices for measuring the intensity and importance of plant neighbour effects</title>
+      <link>/publication/diaz-sierra-2017580/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/diaz-sierra-2017580/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

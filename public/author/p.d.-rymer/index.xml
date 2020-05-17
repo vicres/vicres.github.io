@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P.D. Rymer | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/p.d.-rymer/</link>
+      <atom:link href="/author/p.d.-rymer/index.xml" rel="self" type="application/rss+xml" />
+    <description>P.D. Rymer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>P.D. Rymer</title>
+      <link>/author/p.d.-rymer/</link>
+    </image>
+    
+    <item>
+      <title>Photosynthesis and carbon allocation are both important predictors of genotype productivity responses to elevated CO &lt;inf&gt;2&lt;/inf&gt; in Eucalyptus camaldulensis</title>
+      <link>/publication/aspinwall-20181286/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/aspinwall-20181286/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

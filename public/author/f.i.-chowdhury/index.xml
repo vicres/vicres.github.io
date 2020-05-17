@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F.I. Chowdhury | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/f.i.-chowdhury/</link>
+      <atom:link href="/author/f.i.-chowdhury/index.xml" rel="self" type="application/rss+xml" />
+    <description>F.I. Chowdhury</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>F.I. Chowdhury</title>
+      <link>/author/f.i.-chowdhury/</link>
+    </image>
+    
+    <item>
+      <title>Assessing the potential functions of nocturnal stomatal conductance in C&lt;inf&gt;3&lt;/inf&gt; and C&lt;inf&gt;4&lt;/inf&gt; plants</title>
+      <link>/publication/rescode-dios-20191696/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-20191696/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

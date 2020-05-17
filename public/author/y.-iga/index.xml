@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Iga | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/y.-iga/</link>
+      <atom:link href="/author/y.-iga/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Iga</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>Y. Iga</title>
+      <link>/author/y.-iga/</link>
+    </image>
+    
+    <item>
+      <title>Effects of topsoil removal by soil-scarification on regeneration dynamics of mixed forests in Hokkaido, Northern Japan</title>
+      <link>/publication/resco-de-dios-2005138/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-de-dios-2005138/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

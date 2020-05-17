@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Serrano-Ortiz | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/p.-serrano-ortiz/</link>
+      <atom:link href="/author/p.-serrano-ortiz/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Serrano-Ortiz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>P. Serrano-Ortiz</title>
+      <link>/author/p.-serrano-ortiz/</link>
+    </image>
+    
+    <item>
+      <title>Adjustment of annual NEE and ET for the open-path IRGA self-heating correction: Magnitude and approximation over a range of climate</title>
+      <link>/publication/reverter-20111856/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/reverter-20111856/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the major drivers of NEE in a Mediterranean alpine shrubland</title>
+      <link>/publication/reverter-20102601/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/reverter-20102601/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable isotope views on ecosystem function: challenging or challenged?</title>
+      <link>/publication/resco-2010287/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-2010287/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

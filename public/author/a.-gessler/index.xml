@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Gessler | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/a.-gessler/</link>
+      <atom:link href="/author/a.-gessler/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Gessler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>A. Gessler</title>
+      <link>/author/a.-gessler/</link>
+    </image>
+    
+    <item>
+      <title>Day length regulates seasonal patterns of stomatal conductance in Quercus species</title>
+      <link>/publication/granda-202028/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/granda-202028/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian regulation of photosynthesis and transpiration from genes to ecosystems</title>
+      <link>/publication/rescode-dios-201837/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-201837/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian rhythms regulate the environmental responses of net CO&lt;inf&gt;2&lt;/inf&gt; exchange in bean and cotton canopies</title>
+      <link>/publication/rescode-dios-2017185/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2017185/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Endogenous circadian rhythms in pigment composition induce changes in photochemical efficiency in plant canopies</title>
+      <link>/publication/garcia-plazaola-20171153/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-plazaola-20171153/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Night and day – Circadian regulation of night-time dark respiration and light-enhanced dark respiration in plant leaves and canopies</title>
+      <link>/publication/gessler-201714/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gessler-201714/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian rhythms have significant effects on leaf-to-canopy scale gas exchange under field conditions</title>
+      <link>/publication/rescode-dios-201643/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-201643/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processes driving nocturnal transpiration and implications for estimating land evapotranspiration</title>
+      <link>/publication/de-dios-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Woody clockworks: Circadian regulation of night-time water use in Eucalyptus globulus</title>
+      <link>/publication/rescode-dios-2013743/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2013743/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

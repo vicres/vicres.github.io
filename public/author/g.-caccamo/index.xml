@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Caccamo | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/g.-caccamo/</link>
+      <atom:link href="/author/g.-caccamo/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Caccamo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>G. Caccamo</title>
+      <link>/author/g.-caccamo/</link>
+    </image>
+    
+    <item>
+      <title>Large-scale, dynamic transformations in fuel moisture drive wildfire activity across southeastern Australia</title>
+      <link>/publication/nolan-20164229/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-20164229/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting dead fine fuel moisture at regional scales using vapour pressure deficit from MODIS and gridded weather data</title>
+      <link>/publication/nolan-2016100/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-2016100/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

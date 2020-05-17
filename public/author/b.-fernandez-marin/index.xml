@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Fernández-Marín | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/b.-fernandez-marin/</link>
+      <atom:link href="/author/b.-fernandez-marin/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Fernández-Marín</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>B. Fernández-Marín</title>
+      <link>/author/b.-fernandez-marin/</link>
+    </image>
+    
+    <item>
+      <title>Endogenous circadian rhythms in pigment composition induce changes in photochemical efficiency in plant canopies</title>
+      <link>/publication/garcia-plazaola-20171153/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-plazaola-20171153/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

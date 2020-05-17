@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W.C. Oechel | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/w.c.-oechel/</link>
+      <atom:link href="/author/w.c.-oechel/index.xml" rel="self" type="application/rss+xml" />
+    <description>W.C. Oechel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>W.C. Oechel</title>
+      <link>/author/w.c.-oechel/</link>
+    </image>
+    
+    <item>
+      <title>Endogenous circadian regulation of carbon dioxide exchange in terrestrial ecosystems</title>
+      <link>/publication/de-dios-20121956/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-20121956/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

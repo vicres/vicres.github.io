@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Jenkins | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/m.-jenkins/</link>
+      <atom:link href="/author/m.-jenkins/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Jenkins</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>M. Jenkins</title>
+      <link>/author/m.-jenkins/</link>
+    </image>
+    
+    <item>
+      <title>Causes and consequences of eastern Australia&#39;s 2019–20 season of mega-fires</title>
+      <link>/publication/nolan-20201039/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-20201039/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Beringer | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/j.-beringer/</link>
+      <atom:link href="/author/j.-beringer/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Beringer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>J. Beringer</title>
+      <link>/author/j.-beringer/</link>
+    </image>
+    
+    <item>
+      <title>An introduction to the Australian and New Zealand flux tower network - OzFlux</title>
+      <link>/publication/beringer-20165895/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/beringer-20165895/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon uptake and water use in woodlands and forests in southern Australia during an extreme heat wave event in the &#34;angry Summer&#34; of 2012/2013</title>
+      <link>/publication/van-gorsel-20165947/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/van-gorsel-20165947/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

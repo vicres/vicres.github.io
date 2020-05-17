@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D.D. Ignace | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/d.d.-ignace/</link>
+      <atom:link href="/author/d.d.-ignace/index.xml" rel="self" type="application/rss+xml" />
+    <description>D.D. Ignace</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>D.D. Ignace</title>
+      <link>/author/d.d.-ignace/</link>
+    </image>
+    
+    <item>
+      <title>Chlorophyll fluorescence, predawn water potential and photosynthesis in precipitation pulse-driven ecosystems - Implications for ecological studies</title>
+      <link>/publication/resco-2008479/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-2008479/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

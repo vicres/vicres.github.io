@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Tissue | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/d.-tissue/</link>
+      <atom:link href="/author/d.-tissue/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Tissue</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>D. Tissue</title>
+      <link>/author/d.-tissue/</link>
+    </image>
+    
+    <item>
+      <title>Upside-down fluxes Down Under: CO&lt;inf&gt;2&lt;/inf&gt; net sink in winter and net source in summer in a temperate evergreen broadleaf forest</title>
+      <link>/publication/renchon-20183703/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/renchon-20183703/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian rhythms regulate the environmental responses of net CO&lt;inf&gt;2&lt;/inf&gt; exchange in bean and cotton canopies</title>
+      <link>/publication/rescode-dios-2017185/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2017185/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

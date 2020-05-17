@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.M. Barbour | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/m.m.-barbour/</link>
+      <atom:link href="/author/m.m.-barbour/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.M. Barbour</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>M.M. Barbour</title>
+      <link>/author/m.m.-barbour/</link>
+    </image>
+    
+    <item>
+      <title>Soil phosphorous and endogenous rhythms exert a larger impact than CO &lt;inf&gt;2&lt;/inf&gt; or temperature on nocturnal stomatal conductance in Eucalyptus tereticornis</title>
+      <link>/publication/de-dios-20131206/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-20131206/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

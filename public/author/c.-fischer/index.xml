@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Fischer | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/c.-fischer/</link>
+      <atom:link href="/author/c.-fischer/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Fischer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>C. Fischer</title>
+      <link>/author/c.-fischer/</link>
+    </image>
+    
+    <item>
+      <title>Climate change effects on mediterranean forests and preventive measures</title>
+      <link>/publication/resco-de-dios-200729/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-de-dios-200729/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

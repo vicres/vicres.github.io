@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Tjoelker | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/m.-tjoelker/</link>
+      <atom:link href="/author/m.-tjoelker/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Tjoelker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>M. Tjoelker</title>
+      <link>/author/m.-tjoelker/</link>
+    </image>
+    
+    <item>
+      <title>Circadian rhythms regulate the environmental responses of net CO&lt;inf&gt;2&lt;/inf&gt; exchange in bean and cotton canopies</title>
+      <link>/publication/rescode-dios-2017185/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2017185/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

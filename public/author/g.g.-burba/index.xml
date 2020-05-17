@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G.G. Burba | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/g.g.-burba/</link>
+      <atom:link href="/author/g.g.-burba/index.xml" rel="self" type="application/rss+xml" />
+    <description>G.G. Burba</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>G.G. Burba</title>
+      <link>/author/g.g.-burba/</link>
+    </image>
+    
+    <item>
+      <title>Adjustment of annual NEE and ET for the open-path IRGA self-heating correction: Magnitude and approximation over a range of climate</title>
+      <link>/publication/reverter-20111856/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/reverter-20111856/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

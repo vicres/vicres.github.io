@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Gasche | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/r.-gasche/</link>
+      <atom:link href="/author/r.-gasche/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Gasche</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>R. Gasche</title>
+      <link>/author/r.-gasche/</link>
+    </image>
+    
+    <item>
+      <title>Postfire nitrogen balance of Mediterranean shrublands: Direct combustion losses versus gaseous and leaching losses from the postfire soil mineral nitrogen flush</title>
+      <link>/publication/dannenmann-20184505/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dannenmann-20184505/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

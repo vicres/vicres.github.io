@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Pemán | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/j.-peman/</link>
+      <atom:link href="/author/j.-peman/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Pemán</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>J. Pemán</title>
+      <link>/author/j.-peman/</link>
+    </image>
+    
+    <item>
+      <title>Fire-induced deforestation in drought-prone Mediterranean forests: drivers and unknowns from leaves to communities</title>
+      <link>/publication/karavani-2018141/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/karavani-2018141/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

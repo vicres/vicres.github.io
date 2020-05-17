@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.W. Fellows | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/a.w.-fellows/</link>
+      <atom:link href="/author/a.w.-fellows/index.xml" rel="self" type="application/rss+xml" />
+    <description>A.W. Fellows</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>A.W. Fellows</title>
+      <link>/author/a.w.-fellows/</link>
+    </image>
+    
+    <item>
+      <title>A semi-mechanistic model for predicting the moisture content of fine litter</title>
+      <link>/publication/rescode-dios-201564/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-201564/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

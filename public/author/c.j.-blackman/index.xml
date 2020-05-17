@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C.J. Blackman | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/c.j.-blackman/</link>
+      <atom:link href="/author/c.j.-blackman/index.xml" rel="self" type="application/rss+xml" />
+    <description>C.J. Blackman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>C.J. Blackman</title>
+      <link>/author/c.j.-blackman/</link>
+    </image>
+    
+    <item>
+      <title>Photosynthesis and carbon allocation are both important predictors of genotype productivity responses to elevated CO &lt;inf&gt;2&lt;/inf&gt; in Eucalyptus camaldulensis</title>
+      <link>/publication/aspinwall-20181286/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/aspinwall-20181286/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaf photosynthetic, economics and hydraulic traits are decoupled among genotypes of a widespread species of eucalypt grown under ambient and elevated CO&lt;inf&gt;2&lt;/inf&gt;</title>
+      <link>/publication/blackman-20161491/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/blackman-20161491/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

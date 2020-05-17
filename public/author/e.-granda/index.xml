@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Granda | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/e.-granda/</link>
+      <atom:link href="/author/e.-granda/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Granda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>E. Granda</title>
+      <link>/author/e.-granda/</link>
+    </image>
+    
+    <item>
+      <title>Day length regulates seasonal patterns of stomatal conductance in Quercus species</title>
+      <link>/publication/granda-202028/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/granda-202028/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the potential functions of nocturnal stomatal conductance in C&lt;inf&gt;3&lt;/inf&gt; and C&lt;inf&gt;4&lt;/inf&gt; plants</title>
+      <link>/publication/rescode-dios-20191696/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-20191696/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D.M.J.S. Bowman | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/d.m.j.s.-bowman/</link>
+      <atom:link href="/author/d.m.j.s.-bowman/index.xml" rel="self" type="application/rss+xml" />
+    <description>D.M.J.S. Bowman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>D.M.J.S. Bowman</title>
+      <link>/author/d.m.j.s.-bowman/</link>
+    </image>
+    
+    <item>
+      <title>Future changes in climatic water balance determine potential for transformational shifts in Australian fire regimes</title>
+      <link>/publication/boer-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/boer-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E.P. Sánchez-Cañete | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/e.p.-sanchez-canete/</link>
+      <atom:link href="/author/e.p.-sanchez-canete/index.xml" rel="self" type="application/rss+xml" />
+    <description>E.P. Sánchez-Cañete</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>E.P. Sánchez-Cañete</title>
+      <link>/author/e.p.-sanchez-canete/</link>
+    </image>
+    
+    <item>
+      <title>Adjustment of annual NEE and ET for the open-path IRGA self-heating correction: Magnitude and approximation over a range of climate</title>
+      <link>/publication/reverter-20111856/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/reverter-20111856/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the major drivers of NEE in a Mediterranean alpine shrubland</title>
+      <link>/publication/reverter-20102601/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/reverter-20102601/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

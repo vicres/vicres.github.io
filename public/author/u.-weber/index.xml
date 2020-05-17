@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>U. Weber | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/u.-weber/</link>
+      <atom:link href="/author/u.-weber/index.xml" rel="self" type="application/rss+xml" />
+    <description>U. Weber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>U. Weber</title>
+      <link>/author/u.-weber/</link>
+    </image>
+    
+    <item>
+      <title>TRY plant trait database – enhanced coverage and open access</title>
+      <link>/publication/kattge-2020119/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/kattge-2020119/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

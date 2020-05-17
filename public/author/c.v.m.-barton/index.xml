@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C.V.M. Barton | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/c.v.m.-barton/</link>
+      <atom:link href="/author/c.v.m.-barton/index.xml" rel="self" type="application/rss+xml" />
+    <description>C.V.M. Barton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>C.V.M. Barton</title>
+      <link>/author/c.v.m.-barton/</link>
+    </image>
+    
+    <item>
+      <title>Upside-down fluxes Down Under: CO&lt;inf&gt;2&lt;/inf&gt; net sink in winter and net source in summer in a temperate evergreen broadleaf forest</title>
+      <link>/publication/renchon-20183703/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/renchon-20183703/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal stomatal behaviour around the world</title>
+      <link>/publication/lin-2015459/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lin-2015459/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Woody clockworks: Circadian regulation of night-time water use in Eucalyptus globulus</title>
+      <link>/publication/rescode-dios-2013743/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2013743/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

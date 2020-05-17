@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Causes and consequences of eastern Australia&#39;s 2019–20 season of mega-fires</title>
+      <link>/publication/nolan-20201039/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-20201039/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Day length regulates seasonal patterns of stomatal conductance in Quercus species</title>
+      <link>/publication/granda-202028/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/granda-202028/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extreme drought affects the productivity, but not the composition, of a desert plant community in Central Asia differentially across microtopographies</title>
+      <link>/publication/zang-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plant-Fire Interactions : Applying Ecophysiology to Wildfire Management</title>
+      <link>/publication/rescode-dios-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRY plant trait database – enhanced coverage and open access</title>
+      <link>/publication/kattge-2020119/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/kattge-2020119/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unprecedented burn area of Australian mega forest fires</title>
+      <link>/publication/boer-2020171/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/boer-2020171/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the potential functions of nocturnal stomatal conductance in C&lt;inf&gt;3&lt;/inf&gt; and C&lt;inf&gt;4&lt;/inf&gt; plants</title>
+      <link>/publication/rescode-dios-20191696/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-20191696/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erratum: Author Correction: Globe-LFMC, a global plant water status database for vegetation ecophysiology and wildfire applications (Scientific data (2019) 6 1 (155))</title>
+      <link>/publication/yebra-2019305/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yebra-2019305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globe-LFMC, a global plant water status database for vegetation ecophysiology and wildfire applications</title>
+      <link>/publication/yebra-2019155/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yebra-2019155/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life after harvest: Circadian regulation in photosynthetic pigments of rocket leaves during supermarket storage affects the nutritional quality</title>
+      <link>/publication/de-larrinaga-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/de-larrinaga-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using unmanned aerial vehicle-based multispectral, RGB and thermal imagery for phenotyping of forest genetic trials: A case study in Pinus halepensis</title>
+      <link>/publication/santini-2019262/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santini-2019262/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A trade-off between embolism resistance and bark thickness in conifers: are drought and fire adaptations antagonistic?</title>
+      <link>/publication/rescode-dios-2018253/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2018253/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian regulation of photosynthesis and transpiration from genes to ecosystems</title>
+      <link>/publication/rescode-dios-201837/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-201837/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DendroSync: An R package to unravel synchrony patterns in tree-ring networks</title>
+      <link>/publication/alday-201817/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/alday-201817/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of a heatwave on nocturnal stomatal conductance in Eucalyptus camaldulensis</title>
+      <link>/publication/de-dios-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of competition and herbivory over woody seedling growth in a temperate woodland trump the effects of elevated CO&lt;inf&gt;2&lt;/inf&gt;</title>
+      <link>/publication/collins-2018811/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/collins-2018811/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fire-induced deforestation in drought-prone Mediterranean forests: drivers and unknowns from leaves to communities</title>
+      <link>/publication/karavani-2018141/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/karavani-2018141/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photosynthesis and carbon allocation are both important predictors of genotype productivity responses to elevated CO &lt;inf&gt;2&lt;/inf&gt; in Eucalyptus camaldulensis</title>
+      <link>/publication/aspinwall-20181286/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/aspinwall-20181286/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physiological drought responses improve predictions of live fuel moisture dynamics in a Mediterranean forest</title>
+      <link>/publication/nolan-2018417/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-2018417/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postfire nitrogen balance of Mediterranean shrublands: Direct combustion losses versus gaseous and leaching losses from the postfire soil mineral nitrogen flush</title>
+      <link>/publication/dannenmann-20184505/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dannenmann-20184505/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understorey productivity in temperate grassy woodland responds to soil water availability but not to elevated [CO&lt;inf&gt;2&lt;/inf&gt;]</title>
+      <link>/publication/collins-20182366/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/collins-20182366/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upside-down fluxes Down Under: CO&lt;inf&gt;2&lt;/inf&gt; net sink in winter and net source in summer in a temperate evergreen broadleaf forest</title>
+      <link>/publication/renchon-20183703/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/renchon-20183703/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Woody plants optimise stomatal behaviour relative to hydraulic risk</title>
+      <link>/publication/anderegg-2018968/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/anderegg-2018968/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new family of standardized and symmetric indices for measuring the intensity and importance of plant neighbour effects</title>
+      <link>/publication/diaz-sierra-2017580/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/diaz-sierra-2017580/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing Weather Extremes Call for Early Warning of Potential for Catastrophic Fire</title>
+      <link>/publication/boer-20171196/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/boer-20171196/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian regulation and diurnal variation in gas exchange</title>
+      <link>/publication/rescode-dios-20173/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-20173/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian rhythms regulate the environmental responses of net CO&lt;inf&gt;2&lt;/inf&gt; exchange in bean and cotton canopies</title>
+      <link>/publication/rescode-dios-2017185/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2017185/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crown bulk density and fuel moisture dynamics in Pinus pinaster stands are neither modified by thinning nor captured by the Forest Fire Weather Index</title>
+      <link>/publication/soler-martin-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/soler-martin-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Endogenous circadian rhythms in pigment composition induce changes in photochemical efficiency in plant canopies</title>
+      <link>/publication/garcia-plazaola-20171153/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-plazaola-20171153/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fires: Degree courses for fire professionals</title>
+      <link>/publication/de-dios-2017300/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-2017300/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Night and day – Circadian regulation of night-time dark respiration and light-enhanced dark respiration in plant leaves and canopies</title>
+      <link>/publication/gessler-201714/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gessler-201714/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plant water potential improves prediction of empirical stomatal models</title>
+      <link>/publication/anderegg-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/anderegg-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationships between climate of origin and photosynthetic responses to an episodic heatwave depend on growth CO&lt;inf&gt;2&lt;/inf&gt; concentration for Eucalyptus camaldulensis var. camaldulensis</title>
+      <link>/publication/loik-20171053/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/loik-20171053/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An introduction to the Australian and New Zealand flux tower network - OzFlux</title>
+      <link>/publication/beringer-20165895/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/beringer-20165895/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Announcing the Grubb Reviews</title>
+      <link>/publication/nagy-20161/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/nagy-20161/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon uptake and water use in woodlands and forests in southern Australia during an extreme heat wave event in the &#34;angry Summer&#34; of 2012/2013</title>
+      <link>/publication/van-gorsel-20165947/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/van-gorsel-20165947/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian rhythms have significant effects on leaf-to-canopy scale gas exchange under field conditions</title>
+      <link>/publication/rescode-dios-201643/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-201643/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forests synchronize their growth in contrasting Eurasian regions in response to climate warming</title>
+      <link>/publication/shestakova-2016662/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/shestakova-2016662/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future changes in climatic water balance determine potential for transformational shifts in Australian fire regimes</title>
+      <link>/publication/boer-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/boer-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic variation in circadian regulation of nocturnal stomatal conductance enhances carbon assimilation and growth</title>
+      <link>/publication/rescode-dios-20163/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-20163/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-specific association between carbon isotope composition and productivity in woody plants: A meta-analysis</title>
+      <link>/publication/fardusi-2016110/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/fardusi-2016110/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intraspecific variation in juvenile tree growth under elevated CO&lt;inf&gt;2&lt;/inf&gt; alone and with O&lt;inf&gt;3&lt;/inf&gt;: A meta-analysis</title>
+      <link>/publication/de-dios-2016682/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-2016682/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale, dynamic transformations in fuel moisture drive wildfire activity across southeastern Australia</title>
+      <link>/publication/nolan-20164229/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-20164229/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaf photosynthetic, economics and hydraulic traits are decoupled among genotypes of a widespread species of eucalypt grown under ambient and elevated CO&lt;inf&gt;2&lt;/inf&gt;</title>
+      <link>/publication/blackman-20161491/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/blackman-20161491/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting dead fine fuel moisture at regional scales using vapour pressure deficit from MODIS and gridded weather data</title>
+      <link>/publication/nolan-2016100/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-2016100/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When fire acts like an irrigation: competition release after burning enhances growth</title>
+      <link>/publication/rescode-dios-2016579/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2016579/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semi-mechanistic model for predicting the moisture content of fine litter</title>
+      <link>/publication/rescode-dios-201564/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-201564/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fire increases the risk of higher soil N&lt;inf&gt;2&lt;/inf&gt;O emissions from Mediterranean Macchia ecosystems</title>
+      <link>/publication/karhu-201544/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/karhu-201544/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal stomatal behaviour around the world</title>
+      <link>/publication/lin-2015459/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lin-2015459/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processes driving nocturnal transpiration and implications for estimating land evapotranspiration</title>
+      <link>/publication/de-dios-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing intraspecific variation in phenotypic plasticity to bolster agricultural and forest productivity under climate change</title>
+      <link>/publication/aspinwall-20151752/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/aspinwall-20151752/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitions from grassland to savanna under drought through passive facilitation by grasses</title>
+      <link>/publication/de-dios-2014937/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-2014937/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invasive forb benefits from water savings by native plants and carbon fertilization under elevated CO&lt;inf&gt;2&lt;/inf&gt; and warming</title>
+      <link>/publication/blumenthal-20131156/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/blumenthal-20131156/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the persistence of memory: Soft clocks and terrestrial biosphere-atmosphere interactions</title>
+      <link>/publication/de-dios-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soil phosphorous and endogenous rhythms exert a larger impact than CO &lt;inf&gt;2&lt;/inf&gt; or temperature on nocturnal stomatal conductance in Eucalyptus tereticornis</title>
+      <link>/publication/de-dios-20131206/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-20131206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Woody clockworks: Circadian regulation of night-time water use in Eucalyptus globulus</title>
+      <link>/publication/rescode-dios-2013743/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2013743/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differences in morpho-physiological leaf traits reflect the response of growth to drought in a seeder but not in a resprouter Mediterranean species</title>
+      <link>/publication/ramirez-2012332/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/ramirez-2012332/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Endogenous circadian regulation of carbon dioxide exchange in terrestrial ecosystems</title>
+      <link>/publication/de-dios-20121956/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-20121956/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental and physiological controls on the carbon isotope composition of CO&lt;inf&gt;2&lt;/inf&gt; respired by leaves and roots of a C&lt;inf&gt;3&lt;/inf&gt; woody legume (Prosopis velutina) and a C&lt;inf&gt;4&lt;/inf&gt; perennial grass (Sporobolus wrightii)</title>
+      <link>/publication/sun-2012567/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/sun-2012567/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modifying rainfall patterns in a Mediterranean shrubland: System design, plant responses, and experimental burning</title>
+      <link>/publication/parra-20121033/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/parra-20121033/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows of opportunity for Prosopis velutina seedling establishment and encroachment in a semiarid grassland</title>
+      <link>/publication/rescode-dios-2012275/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2012275/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjustment of annual NEE and ET for the open-path IRGA self-heating correction: Magnitude and approximation over a range of climate</title>
+      <link>/publication/reverter-20111856/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/reverter-20111856/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rainfall patterns after fire differentially affect the recruitment of three Mediterranean shrubs</title>
+      <link>/publication/moreno-20113721/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/moreno-20113721/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The stable isotope ecology of terrestrial plant succession</title>
+      <link>/publication/resco-2011117/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-2011117/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the major drivers of NEE in a Mediterranean alpine shrubland</title>
+      <link>/publication/reverter-20102601/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/reverter-20102601/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nocturnal and seasonal patterns of carbon isotope composition of leaf dark-respired carbon dioxide differ among dominant species in a semiarid savanna</title>
+      <link>/publication/sun-2010297/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/sun-2010297/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable isotope views on ecosystem function: challenging or challenged?</title>
+      <link>/publication/resco-2010287/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-2010287/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diurnal and seasonal variation in the carbon isotope composition of leaf dark-respired CO&lt;inf&gt;2&lt;/inf&gt; in velvet mesquite (Prosopis velutina)</title>
+      <link>/publication/sun-20091390/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/sun-20091390/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drought-induced hydraulic limitations constrain leaf gas exchange recovery after precipitation pulses in the C&lt;inf&gt;3&lt;/inf&gt; woody legume, Prosopis velutina</title>
+      <link>/publication/resco-2009672/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-2009672/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological implications of plants&#39; ability to tell the time</title>
+      <link>/publication/resco-2009583/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-2009583/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responses of microbial populations and processes to pulses of precipitation in semiarid forest ecosystems</title>
+      <link>/publication/resco-200933/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-200933/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chlorophyll fluorescence, predawn water potential and photosynthesis in precipitation pulse-driven ecosystems - Implications for ecological studies</title>
+      <link>/publication/resco-2008479/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-2008479/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth and survival of tall tree seedlings 6∼8 years after soil scarification in hokkaido</title>
+      <link>/publication/harada-2008397/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/harada-2008397/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate change effects on mediterranean forests and preventive measures</title>
+      <link>/publication/resco-de-dios-200729/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-de-dios-200729/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of topsoil removal by soil-scarification on regeneration dynamics of mixed forests in Hokkaido, Northern Japan</title>
+      <link>/publication/resco-de-dios-2005138/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-de-dios-2005138/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gastropod diversity in aspen stands in coastal northern Sweden</title>
+      <link>/publication/suominen-2003403/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/suominen-2003403/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

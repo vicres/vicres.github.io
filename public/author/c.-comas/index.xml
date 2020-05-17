@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Comas | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/c.-comas/</link>
+      <atom:link href="/author/c.-comas/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Comas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>C. Comas</title>
+      <link>/author/c.-comas/</link>
+    </image>
+    
+    <item>
+      <title>Intra-specific association between carbon isotope composition and productivity in woody plants: A meta-analysis</title>
+      <link>/publication/fardusi-2016110/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/fardusi-2016110/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

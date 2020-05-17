@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.D. Richardson | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/a.d.-richardson/</link>
+      <atom:link href="/author/a.d.-richardson/index.xml" rel="self" type="application/rss+xml" />
+    <description>A.D. Richardson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>A.D. Richardson</title>
+      <link>/author/a.d.-richardson/</link>
+    </image>
+    
+    <item>
+      <title>Endogenous circadian regulation of carbon dioxide exchange in terrestrial ecosystems</title>
+      <link>/publication/de-dios-20121956/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-20121956/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

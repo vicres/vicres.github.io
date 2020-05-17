@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.E. Drake | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/j.e.-drake/</link>
+      <atom:link href="/author/j.e.-drake/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.E. Drake</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>J.E. Drake</title>
+      <link>/author/j.e.-drake/</link>
+    </image>
+    
+    <item>
+      <title>Photosynthesis and carbon allocation are both important predictors of genotype productivity responses to elevated CO &lt;inf&gt;2&lt;/inf&gt; in Eucalyptus camaldulensis</title>
+      <link>/publication/aspinwall-20181286/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/aspinwall-20181286/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal stomatal behaviour around the world</title>
+      <link>/publication/lin-2015459/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lin-2015459/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

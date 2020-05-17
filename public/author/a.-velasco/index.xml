@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Velasco | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/a.-velasco/</link>
+      <atom:link href="/author/a.-velasco/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Velasco</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>A. Velasco</title>
+      <link>/author/a.-velasco/</link>
+    </image>
+    
+    <item>
+      <title>Modifying rainfall patterns in a Mediterranean shrubland: System design, plant responses, and experimental burning</title>
+      <link>/publication/parra-20121033/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/parra-20121033/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rainfall patterns after fire differentially affect the recruitment of three Mediterranean shrubs</title>
+      <link>/publication/moreno-20113721/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/moreno-20113721/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

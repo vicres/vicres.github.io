@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.J. Aspinwall | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/m.j.-aspinwall/</link>
+      <atom:link href="/author/m.j.-aspinwall/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.J. Aspinwall</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>M.J. Aspinwall</title>
+      <link>/author/m.j.-aspinwall/</link>
+    </image>
+    
+    <item>
+      <title>Photosynthesis and carbon allocation are both important predictors of genotype productivity responses to elevated CO &lt;inf&gt;2&lt;/inf&gt; in Eucalyptus camaldulensis</title>
+      <link>/publication/aspinwall-20181286/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/aspinwall-20181286/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic variation in circadian regulation of nocturnal stomatal conductance enhances carbon assimilation and growth</title>
+      <link>/publication/rescode-dios-20163/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-20163/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaf photosynthetic, economics and hydraulic traits are decoupled among genotypes of a widespread species of eucalypt grown under ambient and elevated CO&lt;inf&gt;2&lt;/inf&gt;</title>
+      <link>/publication/blackman-20161491/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/blackman-20161491/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing intraspecific variation in phenotypic plasticity to bolster agricultural and forest productivity under climate change</title>
+      <link>/publication/aspinwall-20151752/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/aspinwall-20151752/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

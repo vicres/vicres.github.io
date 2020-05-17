@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Herrero | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/a.-herrero/</link>
+      <atom:link href="/author/a.-herrero/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Herrero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>A. Herrero</title>
+      <link>/author/a.-herrero/</link>
+    </image>
+    
+    <item>
+      <title>Stable isotope views on ecosystem function: challenging or challenged?</title>
+      <link>/publication/resco-2010287/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-2010287/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

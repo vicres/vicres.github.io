@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F.C. Meinzer | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/f.c.-meinzer/</link>
+      <atom:link href="/author/f.c.-meinzer/index.xml" rel="self" type="application/rss+xml" />
+    <description>F.C. Meinzer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>F.C. Meinzer</title>
+      <link>/author/f.c.-meinzer/</link>
+    </image>
+    
+    <item>
+      <title>Woody plants optimise stomatal behaviour relative to hydraulic risk</title>
+      <link>/publication/anderegg-2018968/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/anderegg-2018968/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

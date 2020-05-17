@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.M. Morenoa | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/j.m.-morenoa/</link>
+      <atom:link href="/author/j.m.-morenoa/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.M. Morenoa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>J.M. Morenoa</title>
+      <link>/author/j.m.-morenoa/</link>
+    </image>
+    
+    <item>
+      <title>The stable isotope ecology of terrestrial plant succession</title>
+      <link>/publication/resco-2011117/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-2011117/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

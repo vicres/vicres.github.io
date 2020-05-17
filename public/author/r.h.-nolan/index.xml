@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R.H. Nolan | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/r.h.-nolan/</link>
+      <atom:link href="/author/r.h.-nolan/index.xml" rel="self" type="application/rss+xml" />
+    <description>R.H. Nolan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>R.H. Nolan</title>
+      <link>/author/r.h.-nolan/</link>
+    </image>
+    
+    <item>
+      <title>Causes and consequences of eastern Australia&#39;s 2019–20 season of mega-fires</title>
+      <link>/publication/nolan-20201039/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-20201039/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erratum: Author Correction: Globe-LFMC, a global plant water status database for vegetation ecophysiology and wildfire applications (Scientific data (2019) 6 1 (155))</title>
+      <link>/publication/yebra-2019305/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yebra-2019305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globe-LFMC, a global plant water status database for vegetation ecophysiology and wildfire applications</title>
+      <link>/publication/yebra-2019155/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yebra-2019155/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physiological drought responses improve predictions of live fuel moisture dynamics in a Mediterranean forest</title>
+      <link>/publication/nolan-2018417/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-2018417/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing Weather Extremes Call for Early Warning of Potential for Catastrophic Fire</title>
+      <link>/publication/boer-20171196/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/boer-20171196/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale, dynamic transformations in fuel moisture drive wildfire activity across southeastern Australia</title>
+      <link>/publication/nolan-20164229/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-20164229/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting dead fine fuel moisture at regional scales using vapour pressure deficit from MODIS and gridded weather data</title>
+      <link>/publication/nolan-2016100/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/nolan-2016100/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semi-mechanistic model for predicting the moisture content of fine litter</title>
+      <link>/publication/rescode-dios-201564/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-201564/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

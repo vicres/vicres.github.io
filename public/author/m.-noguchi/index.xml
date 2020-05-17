@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Noguchi | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/m.-noguchi/</link>
+      <atom:link href="/author/m.-noguchi/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Noguchi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>M. Noguchi</title>
+      <link>/author/m.-noguchi/</link>
+    </image>
+    
+    <item>
+      <title>Growth and survival of tall tree seedlings 6∼8 years after soil scarification in hokkaido</title>
+      <link>/publication/harada-2008397/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/harada-2008397/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Sánchez-Martin | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/l.-sanchez-martin/</link>
+      <atom:link href="/author/l.-sanchez-martin/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Sánchez-Martin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>L. Sánchez-Martin</title>
+      <link>/author/l.-sanchez-martin/</link>
+    </image>
+    
+    <item>
+      <title>Postfire nitrogen balance of Mediterranean shrublands: Direct combustion losses versus gaseous and leaching losses from the postfire soil mineral nitrogen flush</title>
+      <link>/publication/dannenmann-20184505/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dannenmann-20184505/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

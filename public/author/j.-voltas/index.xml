@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Voltas | Plant-Fire-Atmosphere Laboratory</title>
+    <link>/author/j.-voltas/</link>
+      <atom:link href="/author/j.-voltas/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Voltas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/profilepic.jpg</url>
+      <title>J. Voltas</title>
+      <link>/author/j.-voltas/</link>
+    </image>
+    
+    <item>
+      <title>Using unmanned aerial vehicle-based multispectral, RGB and thermal imagery for phenotyping of forest genetic trials: A case study in Pinus halepensis</title>
+      <link>/publication/santini-2019262/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santini-2019262/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A trade-off between embolism resistance and bark thickness in conifers: are drought and fire adaptations antagonistic?</title>
+      <link>/publication/rescode-dios-2018253/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2018253/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DendroSync: An R package to unravel synchrony patterns in tree-ring networks</title>
+      <link>/publication/alday-201817/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/alday-201817/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian rhythms regulate the environmental responses of net CO&lt;inf&gt;2&lt;/inf&gt; exchange in bean and cotton canopies</title>
+      <link>/publication/rescode-dios-2017185/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-2017185/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crown bulk density and fuel moisture dynamics in Pinus pinaster stands are neither modified by thinning nor captured by the Forest Fire Weather Index</title>
+      <link>/publication/soler-martin-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/soler-martin-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Endogenous circadian rhythms in pigment composition induce changes in photochemical efficiency in plant canopies</title>
+      <link>/publication/garcia-plazaola-20171153/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-plazaola-20171153/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Night and day – Circadian regulation of night-time dark respiration and light-enhanced dark respiration in plant leaves and canopies</title>
+      <link>/publication/gessler-201714/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gessler-201714/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian rhythms have significant effects on leaf-to-canopy scale gas exchange under field conditions</title>
+      <link>/publication/rescode-dios-201643/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rescode-dios-201643/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forests synchronize their growth in contrasting Eurasian regions in response to climate warming</title>
+      <link>/publication/shestakova-2016662/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/shestakova-2016662/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-specific association between carbon isotope composition and productivity in woody plants: A meta-analysis</title>
+      <link>/publication/fardusi-2016110/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/fardusi-2016110/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intraspecific variation in juvenile tree growth under elevated CO&lt;inf&gt;2&lt;/inf&gt; alone and with O&lt;inf&gt;3&lt;/inf&gt;: A meta-analysis</title>
+      <link>/publication/de-dios-2016682/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/de-dios-2016682/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable isotope views on ecosystem function: challenging or challenged?</title>
+      <link>/publication/resco-2010287/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/resco-2010287/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
