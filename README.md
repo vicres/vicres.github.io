@@ -1,1 +1,0 @@
-# vicres.github.io
