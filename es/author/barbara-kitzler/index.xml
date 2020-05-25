@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barbara Kitzler | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/es/author/barbara-kitzler/</link>
+      <atom:link href="https://vicres.github.io/es/author/barbara-kitzler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Barbara Kitzler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>Barbara Kitzler</title>
+      <link>https://vicres.github.io/es/author/barbara-kitzler/</link>
+    </image>
+    
+    <item>
+      <title>Postfire nitrogen balance of Mediterranean shrublands: Direct combustion losses versus gaseous and leaching losses from the postfire soil mineral nitrogen flush</title>
+      <link>https://vicres.github.io/es/publication/isi-000445728800005/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/es/publication/isi-000445728800005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

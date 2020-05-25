@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastien Devidal | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/es/author/sebastien-devidal/</link>
+      <atom:link href="https://vicres.github.io/es/author/sebastien-devidal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastien Devidal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>Sebastien Devidal</title>
+      <link>https://vicres.github.io/es/author/sebastien-devidal/</link>
+    </image>
+    
+    <item>
+      <title>Circadian rhythms regulate the environmental responses of net CO2 exchange in bean and cotton canopies</title>
+      <link>https://vicres.github.io/es/publication/isi-000401884800017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/es/publication/isi-000401884800017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Night and day - Circadian regulation of night-time dark respiration and light-enhanced dark respiration in plant leaves and canopies</title>
+      <link>https://vicres.github.io/es/publication/isi-000398752400002/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/es/publication/isi-000398752400002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian rhythms have significant effects on leaf-to-canopy scale gas exchange under field conditions</title>
+      <link>https://vicres.github.io/es/publication/isi-000385640200001/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/es/publication/isi-000385640200001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

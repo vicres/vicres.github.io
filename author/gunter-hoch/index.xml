@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gunter Hoch | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/author/gunter-hoch/</link>
+      <atom:link href="https://vicres.github.io/author/gunter-hoch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gunter Hoch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>Gunter Hoch</title>
+      <link>https://vicres.github.io/author/gunter-hoch/</link>
+    </image>
+    
+    <item>
+      <title>Endogenous circadian rhythms in pigment composition induce changes in photochemical efficiency in plant canopies</title>
+      <link>https://vicres.github.io/publication/isi-000402737300013/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000402737300013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Night and day - Circadian regulation of night-time dark respiration and light-enhanced dark respiration in plant leaves and canopies</title>
+      <link>https://vicres.github.io/publication/isi-000398752400002/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000398752400002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

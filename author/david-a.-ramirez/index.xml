@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David A. Ramirez | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/author/david-a.-ramirez/</link>
+      <atom:link href="https://vicres.github.io/author/david-a.-ramirez/index.xml" rel="self" type="application/rss+xml" />
+    <description>David A. Ramirez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>David A. Ramirez</title>
+      <link>https://vicres.github.io/author/david-a.-ramirez/</link>
+    </image>
+    
+    <item>
+      <title>Postfire nitrogen balance of Mediterranean shrublands: Direct combustion losses versus gaseous and leaching losses from the postfire soil mineral nitrogen flush</title>
+      <link>https://vicres.github.io/publication/isi-000445728800005/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000445728800005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modifying rainfall patterns in a Mediterranean shrubland: system design, plant responses, and experimental burning</title>
+      <link>https://vicres.github.io/publication/isi-000309863600006/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000309863600006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differences in morpho-physiological leaf traits reflect the response of growth to drought in a seeder but not in a resprouter Mediterranean species</title>
+      <link>https://vicres.github.io/publication/isi-000303165200006/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000303165200006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The stable isotope ecology of terrestrial plant succession</title>
+      <link>https://vicres.github.io/publication/isi-000299890600001/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000299890600001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

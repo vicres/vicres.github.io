@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. R. Reverter | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/author/b.-r.-reverter/</link>
+      <atom:link href="https://vicres.github.io/author/b.-r.-reverter/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. R. Reverter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Thu, 01 Dec 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>B. R. Reverter</title>
+      <link>https://vicres.github.io/author/b.-r.-reverter/</link>
+    </image>
+    
+    <item>
+      <title>Adjustment of annual NEE and ET for the open-path IRGA self-heating correction: Magnitude and approximation over a range of climate</title>
+      <link>https://vicres.github.io/publication/isi-000297277200034/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000297277200034/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the major drivers of NEE in a Mediterranean alpine shrubland</title>
+      <link>https://vicres.github.io/publication/isi-000282427800002/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000282427800002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

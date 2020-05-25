@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Renee A. Smith | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/author/renee-a.-smith/</link>
+      <atom:link href="https://vicres.github.io/author/renee-a.-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Renee A. Smith</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>Renee A. Smith</title>
+      <link>https://vicres.github.io/author/renee-a.-smith/</link>
+    </image>
+    
+    <item>
+      <title>Photosynthesis and carbon allocation are both important predictors of genotype productivity responses to elevated CO2 in Eucalyptus camaldulensis</title>
+      <link>https://vicres.github.io/publication/isi-000452456200004/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000452456200004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of a Heat Wave on Nocturnal Stomatal Conductance in Eucalyptus camaldulensis</title>
+      <link>https://vicres.github.io/publication/isi-000436277900036/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000436277900036/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaf photosynthetic, economics and hydraulic traits are decoupled among genotypes of a widespread species of eucalypt grown under ambient and elevated CO2</title>
+      <link>https://vicres.github.io/publication/isi-000385514700003/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000385514700003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

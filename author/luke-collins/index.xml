@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luke Collins | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/author/luke-collins/</link>
+      <atom:link href="https://vicres.github.io/author/luke-collins/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luke Collins</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>Luke Collins</title>
+      <link>https://vicres.github.io/author/luke-collins/</link>
+    </image>
+    
+    <item>
+      <title>A broader perspective on the causes and consequences of eastern Australia’s 2019-20 season of mega-fires: A response to Adams et al</title>
+      <link>https://vicres.github.io/publication/doi-10-1111-gcb-15111/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/doi-10-1111-gcb-15111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understorey productivity in temperate grassy woodland responds to soil water availability but not to elevated [CO2]</title>
+      <link>https://vicres.github.io/publication/isi-000433717700013/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000433717700013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

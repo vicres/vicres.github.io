@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaron W. Fellows | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/author/aaron-w.-fellows/</link>
+      <atom:link href="https://vicres.github.io/author/aaron-w.-fellows/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aaron W. Fellows</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>Aaron W. Fellows</title>
+      <link>https://vicres.github.io/author/aaron-w.-fellows/</link>
+    </image>
+    
+    <item>
+      <title>A semi-mechanistic model for predicting the moisture content of fine litter</title>
+      <link>https://vicres.github.io/publication/isi-000350934500007/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000350934500007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

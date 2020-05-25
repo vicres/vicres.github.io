@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philip Frost | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/author/philip-frost/</link>
+      <atom:link href="https://vicres.github.io/author/philip-frost/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philip Frost</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>Philip Frost</title>
+      <link>https://vicres.github.io/author/philip-frost/</link>
+    </image>
+    
+    <item>
+      <title>Globe-LFMC, a global plant water status database for vegetation ecophysiology and wildfire applications (vol 6, 155, 2019)</title>
+      <link>https://vicres.github.io/publication/isi-000501874900001/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000501874900001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globe-LFMC, a global plant water status database for vegetation ecophysiology and wildfire applications</title>
+      <link>https://vicres.github.io/publication/isi-000482001600003/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000482001600003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Kitzler | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/es/author/b.-kitzler/</link>
+      <atom:link href="https://vicres.github.io/es/author/b.-kitzler/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Kitzler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>B. Kitzler</title>
+      <link>https://vicres.github.io/es/author/b.-kitzler/</link>
+    </image>
+    
+    <item>
+      <title>Fire increases the risk of higher soil N2O emissions from Mediterranean Macchia ecosystems</title>
+      <link>https://vicres.github.io/es/publication/isi-000351321200006/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/es/publication/isi-000351321200006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

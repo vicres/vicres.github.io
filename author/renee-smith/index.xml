@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Renee Smith | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/author/renee-smith/</link>
+      <atom:link href="https://vicres.github.io/author/renee-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Renee Smith</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>Renee Smith</title>
+      <link>https://vicres.github.io/author/renee-smith/</link>
+    </image>
+    
+    <item>
+      <title>Relationships between climate of origin and photosynthetic responses to an episodic heatwave depend on growth CO2 concentration for Eucalyptus camaldulensis var. camaldulensis</title>
+      <link>https://vicres.github.io/publication/isi-000412582900001/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000412582900001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic variation in circadian regulation of nocturnal stomatal conductance enhances carbon assimilation and growth</title>
+      <link>https://vicres.github.io/publication/isi-000368499500002/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000368499500002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helen A. Cleugh | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/author/helen-a.-cleugh/</link>
+      <atom:link href="https://vicres.github.io/author/helen-a.-cleugh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Helen A. Cleugh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>Helen A. Cleugh</title>
+      <link>https://vicres.github.io/author/helen-a.-cleugh/</link>
+    </image>
+    
+    <item>
+      <title>An introduction to the Australian and New Zealand flux tower network - OzFlux</title>
+      <link>https://vicres.github.io/publication/isi-000386493000001/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000386493000001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

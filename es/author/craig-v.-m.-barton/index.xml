@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Craig V. M. Barton | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/es/author/craig-v.-m.-barton/</link>
+      <atom:link href="https://vicres.github.io/es/author/craig-v.-m.-barton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Craig V. M. Barton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>Craig V. M. Barton</title>
+      <link>https://vicres.github.io/es/author/craig-v.-m.-barton/</link>
+    </image>
+    
+    <item>
+      <title>Upside-down fluxes Down Under: CO2 net sink in winter and net source in summer in a temperate evergreen broadleaf forest</title>
+      <link>https://vicres.github.io/es/publication/isi-000435586600003/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/es/publication/isi-000435586600003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal stomatal behaviour around the world</title>
+      <link>https://vicres.github.io/es/publication/isi-000354891900025/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/es/publication/isi-000354891900025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Woody clockworks: circadian regulation of night-time water use in Eucalyptus globulus</title>
+      <link>https://vicres.github.io/es/publication/isi-000325555400017/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/es/publication/isi-000325555400017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

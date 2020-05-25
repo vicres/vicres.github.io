@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dmitri Fabrikov | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/author/dmitri-fabrikov/</link>
+      <atom:link href="https://vicres.github.io/author/dmitri-fabrikov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dmitri Fabrikov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>Dmitri Fabrikov</title>
+      <link>https://vicres.github.io/author/dmitri-fabrikov/</link>
+    </image>
+    
+    <item>
+      <title>Life after Harvest: Circadian Regulation in Photosynthetic Pigments of Rocket Leaves during Supermarket Storage Affects the Nutritional Quality</title>
+      <link>https://vicres.github.io/publication/isi-000478885400163/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000478885400163/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

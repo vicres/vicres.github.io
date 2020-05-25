@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael L. Goulden | Víctor Resco de Dios</title>
+    <link>https://vicres.github.io/author/michael-l.-goulden/</link>
+      <atom:link href="https://vicres.github.io/author/michael-l.-goulden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael L. Goulden</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020, Víctor Resco de Dios</copyright><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vicres.github.io/img/profilepic.jpg</url>
+      <title>Michael L. Goulden</title>
+      <link>https://vicres.github.io/author/michael-l.-goulden/</link>
+    </image>
+    
+    <item>
+      <title>Predicting dead fine fuel moisture at regional scales using vapour pressure deficit from MODIS and gridded weather data</title>
+      <link>https://vicres.github.io/publication/isi-000368746800008/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000368746800008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semi-mechanistic model for predicting the moisture content of fine litter</title>
+      <link>https://vicres.github.io/publication/isi-000350934500007/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000350934500007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Woody clockworks: circadian regulation of night-time water use in Eucalyptus globulus</title>
+      <link>https://vicres.github.io/publication/isi-000325555400017/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000325555400017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Endogenous circadian regulation of carbon dioxide exchange in terrestrial ecosystems</title>
+      <link>https://vicres.github.io/publication/isi-000303763600016/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://vicres.github.io/publication/isi-000303763600016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
